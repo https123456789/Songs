@@ -1,1 +1,1 @@
-ls > files
+ls . > files
